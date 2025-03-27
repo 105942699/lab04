@@ -65,7 +65,7 @@ ol ul {
 }
 
 aside:hover {
-    display: none;
+    opacity: 0;
 }
 
 nav a:hover {
